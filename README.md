@@ -2,7 +2,7 @@
 
 **[🌍 Live Demo: multi-agent-journey-planner.onrender.com](https://multi-agent-journey-planner.onrender.com)**
 
-![Website Preview](./preview.png)
+![Website Preview](assets/preview.png)
 
 ## Project Overview
 An AI-powered travel planning system built using multiple AI agents orchestrated with LangGraph. The application generates personalized travel plans by coordinating specialized agents for flights, hotels, itinerary creation, and final response generation. It uses Groq LLM for reasoning, FastAPI as the backend, PostgreSQL for memory and state persistence, and external APIs like Tavily Search, Google Maps, and AviationStack.
